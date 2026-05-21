@@ -131,7 +131,7 @@ for key in Q:
 ## Output
 
 
-<img width="409" height="708" alt="image" src="https://github.com/user-attachments/assets/9214cad7-3275-4021-898d-0a3aad9eb2bb \n" />
+<img width="409" height="708" alt="image" src="https://github.com/user-attachments/assets/9214cad7-3275-4021-898d-0a3aad9eb2bb" />
 
 
 
